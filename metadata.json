@@ -1,0 +1,6 @@
+{
+  "name": "Ticket Management API",
+  "description": "Customer Support Ticket Management platform that implements a robust Express backend API, database storage, and a beautiful Tailwind CSS React frontend interface for customers, agents, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
